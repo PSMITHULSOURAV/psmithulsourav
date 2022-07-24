@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/psmithulsourav/psmithulsourav/master/header.png "Header")](https://psmithulsourav.github.io/)
+[![Header](https://raw.githubusercontent.com/psmithulsourav/psmithulsourav/master/header.gif "Header")](https://psmithulsourav.github.io/)
 ![](https://img.shields.io/github/followers/psmithulsourav?style=social)
 # Hello, amigos! 
 
