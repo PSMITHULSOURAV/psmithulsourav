@@ -1,11 +1,7 @@
 [![Header](https://raw.githubusercontent.com/psmithulsourav/psmithulsourav/master/header.gif "Header")](https://psmithulsourav.github.io/)
 
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=psmithulsourav&style=flat-square"/>
 
- <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpsmithulsourav&longCache=true"/>
-</p>
 
 # Hello, amigos! 
 
@@ -25,3 +21,9 @@
 
 ![Mithul's GitHub stats](https://github-readme-stats.vercel.app/api?username=psmithulsourav&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psmithulsourav&layout=compact&theme=tokyonight&show_icons=true)]
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=psmithulsourav&style=flat-square"/>
+
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpsmithulsourav&longCache=true"/>
+</p>
