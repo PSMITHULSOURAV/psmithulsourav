@@ -21,9 +21,8 @@
 
 ![Mithul's GitHub stats](https://github-readme-stats.vercel.app/api?username=psmithulsourav&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psmithulsourav&layout=compact&theme=tokyonight&show_icons=true)
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=psmithulsourav&theme=redical">
-</p>  
+![Use](https://github-readme-streak-stats.herokuapp.com/?user=psmithulsourav&theme=tokyonight&hide_border=false)
+
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=psmithulsourav&style=flat-square"/>
